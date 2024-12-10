@@ -1,0 +1,6 @@
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveTabMathFuction.Lib\bin\Debug\SolveTabMathFuction.Lib.dll
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveTabMathFuction.Lib\bin\Debug\SolveTabMathFuction.Lib.pdb
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveTabMathFuction.Lib\obj\Debug\SolveTabMathFuction.Lib.csproj.AssemblyReference.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveTabMathFuction.Lib\obj\Debug\SolveTabMathFuction.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveTabMathFuction.Lib\obj\Debug\SolveTabMathFuction.Lib.dll
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveTabMathFuction.Lib\obj\Debug\SolveTabMathFuction.Lib.pdb

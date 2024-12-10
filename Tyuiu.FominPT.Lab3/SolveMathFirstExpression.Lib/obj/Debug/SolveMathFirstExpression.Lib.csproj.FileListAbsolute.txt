@@ -1,0 +1,6 @@
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveMathFirstExpression.Lib\bin\Debug\SolveMathFirstExpression.Lib.dll
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveMathFirstExpression.Lib\bin\Debug\SolveMathFirstExpression.Lib.pdb
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveMathFirstExpression.Lib\obj\Debug\SolveMathFirstExpression.Lib.csproj.AssemblyReference.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveMathFirstExpression.Lib\obj\Debug\SolveMathFirstExpression.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveMathFirstExpression.Lib\obj\Debug\SolveMathFirstExpression.Lib.dll
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveMathFirstExpression.Lib\obj\Debug\SolveMathFirstExpression.Lib.pdb

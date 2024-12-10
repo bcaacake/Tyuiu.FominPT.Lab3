@@ -1,0 +1,6 @@
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveArray.Lib\bin\Debug\SolveArray.Lib.dll
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveArray.Lib\bin\Debug\SolveArray.Lib.pdb
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveArray.Lib\obj\Debug\SolveArray.Lib.csproj.AssemblyReference.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveArray.Lib\obj\Debug\SolveArray.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveArray.Lib\obj\Debug\SolveArray.Lib.dll
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveArray.Lib\obj\Debug\SolveArray.Lib.pdb

@@ -1,0 +1,6 @@
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveCalculate.Lib\bin\Debug\SolveCalculate.Lib.dll
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveCalculate.Lib\bin\Debug\SolveCalculate.Lib.pdb
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveCalculate.Lib\obj\Debug\SolveCalculate.Lib.csproj.AssemblyReference.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveCalculate.Lib\obj\Debug\SolveCalculate.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveCalculate.Lib\obj\Debug\SolveCalculate.Lib.dll
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab3\SolveCalculate.Lib\obj\Debug\SolveCalculate.Lib.pdb
